@@ -1,0 +1,38 @@
+<!DOCTYPE html>  
+<html lang="zh-CN" data-default-color-scheme="auto" data-user-color-scheme="light">  
+<head>  
+    <!-- Meta 和其他头部信息应该放在这里 -->  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>页面标题</title>  
+    <!-- 样式表链接 -->  
+    <link rel="stylesheet" href="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.css">  
+    <!-- 其他头部信息 -->  
+</head>  
+<body>  
+    <header>  
+        <!-- 页眉内容 -->  
+    </header>  
+    <main>  
+        <!-- 主要内容 -->  
+    </main>  
+    <footer>  
+        <!-- 页脚内容 -->  
+    </footer>  
+  
+    <!-- 脚本 -->  
+    <script src="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.js"></script>  
+    <script src="https://lib.baomitu.com/jquery/3.6.0/jquery.min.js"></script>  
+    <script src="https://lib.baomitu.com/twitter-bootstrap/4.6.1/js/bootstrap.min.js"></script>  
+    <script src="/js/events.js"></script>  
+    <script src="/js/plugins.js"></script>  
+    <script src="https://lib.baomitu.com/typed.js/2.0.12/typed.min.js"></script>  
+    <script src="/js/img-lazyload.js"></script>  
+    <script src="/js/local-search.js"></script>  
+    <script src="/js/boot.js"></script>  
+  
+    <noscript>  
+        <div class="noscript-warning">博客在允许 Javascript 运行的环境下浏览效果更佳</div>  
+    </noscript>  
+</body>  
+</html>
